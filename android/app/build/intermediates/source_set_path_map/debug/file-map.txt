@@ -1,0 +1,26 @@
+com.example.expense_tracker_app-jetified-window-java-1.0.0-beta04-0 C:\Users\Asus\.gradle\caches\transforms-3\07d637669f4d31b1bd9084f6b8ca6648\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.expense_tracker_app-jetified-play-services-measurement-api-21.5.0-1 C:\Users\Asus\.gradle\caches\transforms-3\20ecfd3a528014994450dbf9ff4f9f39\transformed\jetified-play-services-measurement-api-21.5.0\res
+com.example.expense_tracker_app-lifecycle-runtime-2.3.1-2 C:\Users\Asus\.gradle\caches\transforms-3\2329072f762b076422ce2cc83efc60fe\transformed\lifecycle-runtime-2.3.1\res
+com.example.expense_tracker_app-jetified-firebase-common-20.4.2-3 C:\Users\Asus\.gradle\caches\transforms-3\474f775af364865e61d3dd924ae35a05\transformed\jetified-firebase-common-20.4.2\res
+com.example.expense_tracker_app-jetified-ads-adservices-java-1.0.0-beta05-4 C:\Users\Asus\.gradle\caches\transforms-3\6d32e9339bb8eecec363081250cd17e8\transformed\jetified-ads-adservices-java-1.0.0-beta05\res
+com.example.expense_tracker_app-jetified-window-1.0.0-beta04-5 C:\Users\Asus\.gradle\caches\transforms-3\6db91e20946f3fee8249fad4a67f70a5\transformed\jetified-window-1.0.0-beta04\res
+com.example.expense_tracker_app-browser-1.4.0-6 C:\Users\Asus\.gradle\caches\transforms-3\6ee869124f75b05ea016519f648e1e0d\transformed\browser-1.4.0\res
+com.example.expense_tracker_app-core-1.9.0-7 C:\Users\Asus\.gradle\caches\transforms-3\84921365c5a685a5b47e742e098bd216\transformed\core-1.9.0\res
+com.example.expense_tracker_app-jetified-annotation-experimental-1.3.0-8 C:\Users\Asus\.gradle\caches\transforms-3\85ccb1adf493e228efc44547a1b29fa4\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.expense_tracker_app-jetified-ads-adservices-1.0.0-beta05-9 C:\Users\Asus\.gradle\caches\transforms-3\af5bd547ffff084877aad418d1b4fcd6\transformed\jetified-ads-adservices-1.0.0-beta05\res
+com.example.expense_tracker_app-jetified-play-services-base-18.0.1-10 C:\Users\Asus\.gradle\caches\transforms-3\cdcc36fab3452797e47a1625f4f6b789\transformed\jetified-play-services-base-18.0.1\res
+com.example.expense_tracker_app-jetified-core-ktx-1.9.0-11 C:\Users\Asus\.gradle\caches\transforms-3\cf4533cde55c116b7ee21e86c63698ca\transformed\jetified-core-ktx-1.9.0\res
+com.example.expense_tracker_app-jetified-play-services-basement-18.1.0-12 C:\Users\Asus\.gradle\caches\transforms-3\e47900a41d9767b1d32dadf6b273bade\transformed\jetified-play-services-basement-18.1.0\res
+com.example.expense_tracker_app-packaged_res-13 C:\Users\Asus\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.16.0\android\build\intermediates\packaged_res\debug
+com.example.expense_tracker_app-packaged_res-14 C:\Users\Asus\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.24.2\android\build\intermediates\packaged_res\debug
+com.example.expense_tracker_app-packaged_res-15 C:\Users\Asus\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_native_splash-2.3.9\android\build\intermediates\packaged_res\debug
+com.example.expense_tracker_app-packaged_res-16 C:\Users\Asus\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.2\android\build\intermediates\packaged_res\debug
+com.example.expense_tracker_app-RES-17 E:\Coding\Flutter Projects\expense_tracker_app\android\app\build\RES\processDebugGoogleServices
+com.example.expense_tracker_app-pngs-18 E:\Coding\Flutter Projects\expense_tracker_app\android\app\build\generated\res\pngs\debug
+com.example.expense_tracker_app-resValues-19 E:\Coding\Flutter Projects\expense_tracker_app\android\app\build\generated\res\resValues\debug
+com.example.expense_tracker_app-rs-20 E:\Coding\Flutter Projects\expense_tracker_app\android\app\build\generated\res\rs\debug
+com.example.expense_tracker_app-mergeDebugResources-21 E:\Coding\Flutter Projects\expense_tracker_app\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.expense_tracker_app-mergeDebugResources-22 E:\Coding\Flutter Projects\expense_tracker_app\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.expense_tracker_app-merged_res-23 E:\Coding\Flutter Projects\expense_tracker_app\android\app\build\intermediates\merged_res\debug
+com.example.expense_tracker_app-debug-24 E:\Coding\Flutter Projects\expense_tracker_app\android\app\src\debug\res
+com.example.expense_tracker_app-main-25 E:\Coding\Flutter Projects\expense_tracker_app\android\app\src\main\res
