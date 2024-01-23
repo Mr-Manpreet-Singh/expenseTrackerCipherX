@@ -4,7 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Toutube visuals
+https://youtu.be/cDxCWfwjQk0
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/cDxCWfwjQk0/0.jpg)](http://www.youtube.com/watch?v=cDxCWfwjQk0 "Expense Tracker App")
 
 A few resources to get you started if this is your first Flutter project:
 
